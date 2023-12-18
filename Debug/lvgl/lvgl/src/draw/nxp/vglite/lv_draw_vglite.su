@@ -1,0 +1,17 @@
+../lvgl/lvgl/src/draw/nxp/vglite/../../sw/../../misc/lv_area.h:110:20:lv_area_copy	16	static
+../lvgl/lvgl/src/draw/nxp/vglite/../../sw/../../misc/lv_area.h:123:26:lv_area_get_width	16	static
+../lvgl/lvgl/src/draw/nxp/vglite/../../sw/../../misc/lv_area.h:133:26:lv_area_get_height	16	static
+../lvgl/lvgl/src/draw/nxp/vglite/lv_draw_vglite.c:106:6:lv_draw_vglite_ctx_init	24	static
+../lvgl/lvgl/src/draw/nxp/vglite/lv_draw_vglite.c:121:6:lv_draw_vglite_ctx_deinit	16	static
+../lvgl/lvgl/src/draw/nxp/vglite/lv_draw_vglite.c:139:20:need_argb8565_support	16	static
+../lvgl/lvgl/src/draw/nxp/vglite/lv_draw_vglite.c:151:13:lv_draw_vglite_init_buf	24	static
+../lvgl/lvgl/src/draw/nxp/vglite/lv_draw_vglite.c:156:13:lv_draw_vglite_wait_for_finish	16	static
+../lvgl/lvgl/src/draw/nxp/vglite/lv_draw_vglite.c:163:13:lv_draw_vglite_blend	64	static
+../lvgl/lvgl/src/draw/nxp/vglite/lv_draw_vglite.c:217:13:lv_draw_vglite_img_decoded	88	static
+../lvgl/lvgl/src/draw/nxp/vglite/lv_draw_vglite.c:293:13:lv_draw_vglite_buffer_copy	48	static
+../lvgl/lvgl/src/draw/nxp/vglite/lv_draw_vglite.c:309:13:lv_draw_vglite_line	56	static
+../lvgl/lvgl/src/draw/nxp/vglite/lv_draw_vglite.c:352:13:lv_draw_vglite_rect	80	static
+../lvgl/lvgl/src/draw/nxp/vglite/lv_draw_vglite.c:398:17:lv_draw_vglite_bg	56	static
+../lvgl/lvgl/src/draw/nxp/vglite/lv_draw_vglite.c:447:17:lv_draw_vglite_border	64	static
+../lvgl/lvgl/src/draw/nxp/vglite/lv_draw_vglite.c:485:17:lv_draw_vglite_outline	64	static
+../lvgl/lvgl/src/draw/nxp/vglite/lv_draw_vglite.c:518:13:lv_draw_vglite_arc	56	static

@@ -1,0 +1,4 @@
+../lvgl/lvgl/src/draw/nxp/vglite/lv_vglite_utils.c:68:10:lv_vglite_run	8	static
+../lvgl/lvgl/src/draw/nxp/vglite/lv_vglite_utils.c:77:10:lv_vglite_premult_and_swizzle	32	static
+../lvgl/lvgl/src/draw/nxp/vglite/lv_vglite_utils.c:115:17:lv_vglite_get_blend_mode	24	static
+../lvgl/lvgl/src/draw/nxp/vglite/lv_vglite_utils.c:142:20:invalidate_cache	16	static

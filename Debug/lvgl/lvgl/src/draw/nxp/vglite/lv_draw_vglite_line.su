@@ -1,0 +1,6 @@
+../lvgl/lvgl/src/draw/nxp/vglite/../../sw/../../misc/lv_color.h:375:24:lv_color_to32	24	static
+../lvgl/lvgl/src/draw/nxp/vglite/../../sw/../../misc/lv_area.h:123:26:lv_area_get_width	16	static
+../lvgl/lvgl/src/draw/nxp/vglite/../../sw/../../misc/lv_area.h:133:26:lv_area_get_height	16	static
+../lvgl/lvgl/src/draw/nxp/vglite/lv_vglite_utils.h:181:20:lv_vglite_set_scissor	32	static
+../lvgl/lvgl/src/draw/nxp/vglite/lv_vglite_utils.h:189:20:lv_vglite_disable_scissor	8	static
+../lvgl/lvgl/src/draw/nxp/vglite/lv_draw_vglite_line.c:64:10:lv_gpu_nxp_vglite_draw_line	216	static

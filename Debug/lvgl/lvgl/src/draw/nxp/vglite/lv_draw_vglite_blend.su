@@ -1,0 +1,13 @@
+../lvgl/lvgl/src/draw/nxp/vglite/../../sw/../../misc/lv_color.h:375:24:lv_color_to32	24	static
+../lvgl/lvgl/src/draw/nxp/vglite/../../sw/../../misc/lv_area.h:123:26:lv_area_get_width	16	static
+../lvgl/lvgl/src/draw/nxp/vglite/../../sw/../../misc/lv_area.h:133:26:lv_area_get_height	16	static
+../lvgl/lvgl/src/draw/nxp/vglite/lv_vglite_utils.h:181:20:lv_vglite_set_scissor	32	static
+../lvgl/lvgl/src/draw/nxp/vglite/lv_vglite_utils.h:189:20:lv_vglite_disable_scissor	8	static
+../lvgl/lvgl/src/draw/nxp/vglite/lv_draw_vglite_blend.c:151:10:lv_gpu_nxp_vglite_fill	232	static
+../lvgl/lvgl/src/draw/nxp/vglite/lv_draw_vglite_blend.c:228:10:lv_gpu_nxp_vglite_blit	32	static
+../lvgl/lvgl/src/draw/nxp/vglite/lv_draw_vglite_blend.c:253:10:lv_gpu_nxp_vglite_blit_transform	32	static
+../lvgl/lvgl/src/draw/nxp/vglite/lv_draw_vglite_blend.c:281:10:lv_gpu_nxp_vglite_buffer_copy	232	static
+../lvgl/lvgl/src/draw/nxp/vglite/lv_draw_vglite_blend.c:522:17:lv_vglite_blit	64	static
+../lvgl/lvgl/src/draw/nxp/vglite/lv_draw_vglite_blend.c:563:17:check_src_alignment	16	static
+../lvgl/lvgl/src/draw/nxp/vglite/lv_draw_vglite_blend.c:579:20:lv_vglite_set_translation_matrix	16	static
+../lvgl/lvgl/src/draw/nxp/vglite/lv_draw_vglite_blend.c:585:20:lv_vglite_set_transformation_matrix	24	static

@@ -1,0 +1,17 @@
+../lvgl/lvgl/src/draw/nxp/vglite/../../sw/../../misc/lv_math.h:49:45:lv_trigo_cos	16	static
+../lvgl/lvgl/src/draw/nxp/vglite/../../sw/../../misc/lv_color.h:375:24:lv_color_to32	24	static
+../lvgl/lvgl/src/draw/nxp/vglite/../../sw/../../misc/lv_area.h:123:26:lv_area_get_width	16	static
+../lvgl/lvgl/src/draw/nxp/vglite/../../sw/../../misc/lv_area.h:133:26:lv_area_get_height	16	static
+../lvgl/lvgl/src/draw/nxp/vglite/lv_vglite_utils.h:181:20:lv_vglite_set_scissor	32	static
+../lvgl/lvgl/src/draw/nxp/vglite/lv_vglite_utils.h:189:20:lv_vglite_disable_scissor	8	static
+../lvgl/lvgl/src/draw/nxp/vglite/lv_draw_vglite_arc.c:106:10:lv_gpu_nxp_vglite_draw_arc	648	static
+../lvgl/lvgl/src/draw/nxp/vglite/lv_draw_vglite_arc.c:240:13:copy_arc	16	static
+../lvgl/lvgl/src/draw/nxp/vglite/lv_draw_vglite_arc.c:258:13:rotate_point	48	static
+../lvgl/lvgl/src/draw/nxp/vglite/lv_draw_vglite_arc.c:275:13:set_full_arc	24	static
+../lvgl/lvgl/src/draw/nxp/vglite/lv_draw_vglite_arc.c:334:21:lerp	32	static
+../lvgl/lvgl/src/draw/nxp/vglite/lv_draw_vglite_arc.c:343:21:comp_bezier_point	48	static
+../lvgl/lvgl/src/draw/nxp/vglite/lv_draw_vglite_arc.c:359:17:get_bez_t_from_pos	56	static
+../lvgl/lvgl/src/draw/nxp/vglite/lv_draw_vglite_arc.c:387:13:get_subarc_control_points	208	static
+../lvgl/lvgl/src/draw/nxp/vglite/lv_draw_vglite_arc.c:480:13:get_arc_control_points	104	static
+../lvgl/lvgl/src/draw/nxp/vglite/lv_draw_vglite_arc.c:545:13:add_split_arc_path	32	static
+../lvgl/lvgl/src/draw/nxp/vglite/lv_draw_vglite_arc.c:595:13:add_arc_path	104	static

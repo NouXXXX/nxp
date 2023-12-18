@@ -1,0 +1,6 @@
+C:\gui-guider-tutorial\evkmimxrt1170_lvgl_guider_cm7\lvgl\lvgl/src/lv_api_map.h:35:51:lv_task_handler	8	static
+../source/lvgl_guider.c:42:13:AppTask	16	static
+../source/lvgl_guider.c:72:5:main	24	static
+../source/lvgl_guider.c:111:6:vApplicationMallocFailedHook	8	static
+../source/lvgl_guider.c:122:6:vApplicationTickHook	8	static
+../source/lvgl_guider.c:133:6:vApplicationStackOverflowHook	16	static

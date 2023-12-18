@@ -1,0 +1,2 @@
+../vglite/font/mcufont/decoder/mf_encoding.c:5:9:mf_getchar	24	static
+../vglite/font/mcufont/decoder/mf_encoding.c:61:6:mf_rewind	16	static

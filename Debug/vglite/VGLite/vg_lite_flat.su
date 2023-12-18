@@ -1,0 +1,12 @@
+../vglite/VGLite/vg_lite_flat.c:132:13:quad_bezier_eval	32	static
+../vglite/VGLite/vg_lite_flat.c:148:24:approx_integral	40	static
+../vglite/VGLite/vg_lite_flat.c:157:24:approx_inverse_integral	40	static
+../vglite/VGLite/vg_lite_flat.c:166:26:map_to_parabola	104	static
+../vglite/VGLite/vg_lite_flat.c:194:37:quad_bezier_flatten_params_init	96	static
+../vglite/VGLite/vg_lite_flat.c:228:13:quad_bezier_flatten_at	56	static
+../vglite/VGLite/vg_lite_flat.c:245:1:_flatten_quad_bezier	120	static
+../vglite/VGLite/vg_lite_flat.c:316:13:cubic_bezier_eval	48	static
+../vglite/VGLite/vg_lite_flat.c:333:22:cubic_bezier_derivative	64	static
+../vglite/VGLite/vg_lite_flat.c:355:23:cubic_bezier_split_at	168	static
+../vglite/VGLite/vg_lite_flat.c:404:12:cubic_bezier_get_flatten_count	32	static
+../vglite/VGLite/vg_lite_flat.c:421:1:_flatten_cubic_bezier	288	static

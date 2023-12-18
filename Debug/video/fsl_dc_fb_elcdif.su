@@ -1,0 +1,16 @@
+C:\gui-guider-tutorial\evkmimxrt1170_lvgl_guider_cm7\drivers/fsl_elcdif.h:375:20:ELCDIF_RgbModeStart	16	static
+C:\gui-guider-tutorial\evkmimxrt1170_lvgl_guider_cm7\drivers/fsl_elcdif.h:393:20:ELCDIF_SetNextBufferAddr	16	static
+C:\gui-guider-tutorial\evkmimxrt1170_lvgl_guider_cm7\drivers/fsl_elcdif.h:542:20:ELCDIF_EnableInterrupts	16	static
+C:\gui-guider-tutorial\evkmimxrt1170_lvgl_guider_cm7\drivers/fsl_elcdif.h:556:20:ELCDIF_DisableInterrupts	16	static
+C:\gui-guider-tutorial\evkmimxrt1170_lvgl_guider_cm7\drivers/fsl_elcdif.h:588:20:ELCDIF_ClearInterruptStatus	16	static
+../video/fsl_dc_fb_elcdif.c:54:17:DC_FB_ELCDIF_GetPixelFormat	24	static
+../video/fsl_dc_fb_elcdif.c:70:10:DC_FB_ELCDIF_Init	48	static
+../video/fsl_dc_fb_elcdif.c:104:10:DC_FB_ELCDIF_Deinit	24	static
+../video/fsl_dc_fb_elcdif.c:119:10:DC_FB_ELCDIF_EnableLayer	24	static
+../video/fsl_dc_fb_elcdif.c:145:10:DC_FB_ELCDIF_DisableLayer	24	static
+../video/fsl_dc_fb_elcdif.c:161:10:DC_FB_ELCDIF_SetLayerConfig	48	static
+../video/fsl_dc_fb_elcdif.c:187:10:DC_FB_ELCDIF_GetLayerDefaultConfig	32	static
+../video/fsl_dc_fb_elcdif.c:203:10:DC_FB_ELCDIF_SetFrameBuffer	32	static
+../video/fsl_dc_fb_elcdif.c:230:6:DC_FB_ELCDIF_SetCallback	32	static
+../video/fsl_dc_fb_elcdif.c:239:10:DC_FB_ELCDIF_GetProperty	16	static
+../video/fsl_dc_fb_elcdif.c:244:6:DC_FB_ELCDIF_IRQHandler	32	static
